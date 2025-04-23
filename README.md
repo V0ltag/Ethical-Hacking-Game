@@ -1,3 +1,11 @@
+To Run: 
+Make sure virtual environment is enabled in your kali linux terminal, for windows the executable file is updated. 
+In kali linux terminal, 
+type: 
+$ python3 main.py 
+
+The game should start. 
+
 # Ethical-Hacking-Game
 The Hacking Adventure set in Cyberspace is titled Neo-Data Heist.
 
